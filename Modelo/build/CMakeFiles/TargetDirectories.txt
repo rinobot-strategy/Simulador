@@ -1,0 +1,9 @@
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/install/strip.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/install/local.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/install.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/list_install_components.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/rebuild_cache.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/vss-sample.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/package.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/package_source.dir
+/home/rinobot/VSS-Core/Strategys/Modelo/build/CMakeFiles/edit_cache.dir

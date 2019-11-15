@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -Werror -std=c++11 -pthread   CMakeFiles/vss-sample.dir/src/main.cpp.o CMakeFiles/vss-sample.dir/src/navigation.cpp.o CMakeFiles/vss-sample.dir/src/strategy.cpp.o  -o vss-sample  -Lusr/lib -Wl,-rpath,usr/lib: -rdynamic -lvss-core -lprotobuf 

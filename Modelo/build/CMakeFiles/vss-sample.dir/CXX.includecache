@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/main.cpp
+strategy.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/strategy.h
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/navigation.cpp
+navigation.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/navigation.h
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/navigation.h
+utils.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/utils.h
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/strategy.cpp
+strategy.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/strategy.h
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/strategy.h
+navigation.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/navigation.h
+
+/home/rinobot/VSS-Core/Strategys/Modelo/src/utils.h
+Communications/StateReceiver.h
+-
+Communications/CommandSender.h
+-
+Communications/DebugSender.h
+-
+cstdlib
+/home/rinobot/VSS-Core/Strategys/Modelo/src/cstdlib
+iostream
+/home/rinobot/VSS-Core/Strategys/Modelo/src/iostream
+math.h
+/home/rinobot/VSS-Core/Strategys/Modelo/src/math.h
+eigen3/Eigen/Dense
+-
+
